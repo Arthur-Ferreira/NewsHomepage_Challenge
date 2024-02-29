@@ -1,0 +1,32 @@
+{
+  "name": "news_homepage_main",
+  "version": "1.0.0",
+  "description": "![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html src/scss/main.scss",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-Ferreira/NewsHomepage_Challenge.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Sass",
+    "NPM"
+  ],
+  "author": "Arthur Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur-Ferreira/NewsHomepage_Challenge/issues"
+  },
+  "homepage": "https://github.com/Arthur-Ferreira/NewsHomepage_Challenge#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  }
+}
