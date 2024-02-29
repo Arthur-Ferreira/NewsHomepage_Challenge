@@ -1,15 +1,14 @@
-6028
-80C:\Projects\DEV\www\util\news_homepage_main\dist\image-web-3-mobile.e8fecf2b.jpg133537140117756738 0
+6029
+80C:\Projects\DEV\www\util\news_homepage_main\dist\image-web-3-mobile.e8fecf2b.jpg133537192682176358 0
 90C:\Projects\DEV\www\util\news_homepage_main\node_modules\caniuse-lite\data\features\sxg.js133537058330038782 0
 104C:\Projects\DEV\www\util\news_homepage_main\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133537058317385824 0
 90C:\Projects\DEV\www\util\news_homepage_main\node_modules\@parcel\reporter-cli\package.json133537058310689863 0
-58C:\Projects\DEV\www\util\news_homepage_main\src\index.html133537132343136777 0
+58C:\Projects\DEV\www\util\news_homepage_main\src\index.html133537194532384663 0
 81C:\Projects\DEV\www\util\news_homepage_main\node_modules\semver\internal\debug.js133537058306653014 0
 87C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\cjs\clean\Declaration.cjs133537058309700826 0
 80C:\Projects\DEV\www\util\news_homepage_main\node_modules\js-yaml\dist\js-yaml.js133537058310048343 0
 120C:\Projects\DEV\www\util\news_homepage_main\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133537058321983949 0
 87C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-select\lib\attributes.d.ts133537058317207221 0
-77C:\Projects\DEV\www\util\news_homepage_main\dist\icon-menu-close.d632f3ad.svg133537140118013328 0
 83C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\cjs\replace\Value.cjs133537058314005975 0
 92C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-select\lib\esm\general.d.ts.map133537058314031188 0
 66C:\Projects\DEV\www\util\news_homepage_main\node_modules\lmdb\util133537058321432621 1
@@ -19,12 +18,11 @@
 108C:\Projects\DEV\www\util\news_homepage_main\node_modules\@babel\highlight\node_modules\ansi-styles\readme.md133537058299365867 0
 81C:\Projects\DEV\www\util\news_homepage_main\src\assets\images\icon-menu-close.svg133526613060000000 0
 89C:\Projects\DEV\www\util\news_homepage_main\node_modules\term-size\vendor\macos\term-size133537058300235601 0
-75C:\Projects\DEV\www\util\news_homepage_main\dist\favicon-32x32.6aac2c21.png133537140117856838 0
 90C:\Projects\DEV\www\util\news_homepage_main\node_modules\@parcel\core\lib\public\Config.js133537058316073301 0
 122C:\Projects\DEV\www\util\news_homepage_main\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\generic.js133537058315526595 0
 114C:\Projects\DEV\www\util\news_homepage_main\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133537058302907127 0
 79C:\Projects\DEV\www\util\news_homepage_main\node_modules\@swc\helpers\_\_update133537058325366505 1
-81C:\Projects\DEV\www\util\news_homepage_main\dist\image-web-3-desktop.1e27a290.jpg133537140117856838 0
+81C:\Projects\DEV\www\util\news_homepage_main\dist\image-web-3-desktop.1e27a290.jpg133537192682273006 0
 99C:\Projects\DEV\www\util\news_homepage_main\node_modules\@swc\helpers\_\_class_private_field_update133537058323657539 1
 118C:\Projects\DEV\www\util\news_homepage_main\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers\helpers.js133537058303261878 0
 87C:\Projects\DEV\www\util\news_homepage_main\node_modules\mdn-data\css\units.schema.json133537058311953480 0
@@ -39,7 +37,6 @@
 110C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\node_modules\css-tree\lib\syntax\node\Comment.js133537058321443219 0
 72C:\Projects\DEV\www\util\news_homepage_main\src\design\mobile-design.jpg133526613060000000 0
 96C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\node_modules\css-tree\lib\index.js133537058322883991 0
-66C:\Projects\DEV\www\util\news_homepage_main\dist\logo.5b34b4d1.svg133537140118013328 0
 80C:\Projects\DEV\www\util\news_homepage_main\node_modules\source-map\package.json133537058293318224 0
 109C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\node_modules\css-tree\lib\syntax\node\Atrule.js133537058321029576 0
 105C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-tree\cjs\syntax\node\PseudoClassSelector.cjs133537058319056327 0
@@ -47,11 +44,10 @@
 113C:\Projects\DEV\www\util\news_homepage_main\node_modules\@swc\helpers\esm\_class_static_private_field_spec_set.js133537058320751591 0
 98C:\Projects\DEV\www\util\news_homepage_main\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133537058318687056 0
 74C:\Projects\DEV\www\util\news_homepage_main\src\design\desktop-preview.jpg133526613060000000 0
-62C:\Projects\DEV\www\util\news_homepage_main\dist\scss\main.css133537153900824208 0
+62C:\Projects\DEV\www\util\news_homepage_main\dist\scss\main.css133537195362744495 0
 119C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.d.ts133537058316306667 0
 95C:\Projects\DEV\www\util\news_homepage_main\node_modules\chrome-trace-event\dist\trace-event.js133537058295107371 0
 86C:\Projects\DEV\www\util\news_homepage_main\node_modules\cosmiconfig\dist\loaders.d.ts133537058312080731 0
-79C:\Projects\DEV\www\util\news_homepage_main\dist\news_homepage_main.59712999.js133537140118087577 0
 99C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\node_modules\css-tree\cjs\version.cjs133537058320740865 0
 97C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\node_modules\css-tree\cjs\index.cjs133537058316116277 0
 54C:\Projects\DEV\www\util\news_homepage_main\src\design133537093977588463 1
@@ -63,18 +59,16 @@
 92C:\Projects\DEV\www\util\news_homepage_main\node_modules\lmdb\dependencies\lz4\lib\README.md133537058321683284 0
 81C:\Projects\DEV\www\util\news_homepage_main\node_modules\domhandler\lib\node.d.ts133537058305056095 0
 90C:\Projects\DEV\www\util\news_homepage_main\node_modules\cosmiconfig\dist\loaders.d.ts.map133537058309205651 0
-83C:\Projects\DEV\www\util\news_homepage_main\dist\news_homepage_main.59712999.js.map133537140118133820 0
 125C:\Projects\DEV\www\util\news_homepage_main\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\index.d.ts133537058306513207 0
 88C:\Projects\DEV\www\util\news_homepage_main\node_modules\caniuse-lite\data\regions\MP.js133537058328369211 0
 77C:\Projects\DEV\www\util\news_homepage_main\node_modules\braces\lib\expand.js133537058303959188 0
 93C:\Projects\DEV\www\util\news_homepage_main\node_modules\@parcel\optimizer-image\package.json133537058303567440 0
 73C:\Projects\DEV\www\util\news_homepage_main\node_modules\js-yaml\lib\type133537058313317617 1
 75C:\Projects\DEV\www\util\news_homepage_main\node_modules\anymatch\README.md133537058500107818 0
-66C:\Projects\DEV\www\util\news_homepage_main\dist\scss\main.css.map133537153900838624 0
+66C:\Projects\DEV\www\util\news_homepage_main\dist\scss\main.css.map133537195362767852 0
 71C:\Projects\DEV\www\util\news_homepage_main\node_modules\supports-color133537058300186126 1
 123C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.d.ts.map133537058312574749 0
 99C:\Projects\DEV\www\util\news_homepage_main\node_modules\chrome-trace-event\dist\trace-event.js.map133537058298471509 0
-71C:\Projects\DEV\www\util\news_homepage_main\dist\icon-menu.1cb7b930.svg133537140118166954 0
 88C:\Projects\DEV\www\util\news_homepage_main\node_modules\caniuse-lite\data\regions\GI.js133537058326196376 0
 114C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133537058322444647 0
 70C:\Projects\DEV\www\util\news_homepage_main\src\design\mobile-menu.jpg133526613060000000 0
@@ -87,12 +81,11 @@
 105C:\Projects\DEV\www\util\news_homepage_main\node_modules\caniuse-lite\data\features\css-math-functions.js133537058322795637 0
 90C:\Projects\DEV\www\util\news_homepage_main\node_modules\mdn-data\css\syntaxes.schema.json133537058311163320 0
 86C:\Projects\DEV\www\util\news_homepage_main\node_modules\type-fest\source\mutable.d.ts133537058310502952 0
-59C:\Projects\DEV\www\util\news_homepage_main\dist\index.html133537140118166954 0
 69C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-tree\lib133537058324315174 1
 101C:\Projects\DEV\www\util\news_homepage_main\node_modules\utility-types\dist\functional-helpers.js.map133537058305570006 0
 88C:\Projects\DEV\www\util\news_homepage_main\node_modules\caniuse-lite\data\regions\VA.js133537058330556727 0
 90C:\Projects\DEV\www\util\news_homepage_main\node_modules\svgo\plugins\removeUselessDefs.js133537058318804847 0
-54C:\Projects\DEV\www\util\news_homepage_main\.gitignore133526613060000000 0
+54C:\Projects\DEV\www\util\news_homepage_main\.gitignore133537182717521991 0
 105C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts133537058316006077 0
 67C:\Projects\DEV\www\util\news_homepage_main\node_modules\parcel\lib133537058302520177 1
 75C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\cjs\index.cjs133537058311104105 0
@@ -117,7 +110,7 @@
 81C:\Projects\DEV\www\util\news_homepage_main\node_modules\dom-serializer\README.md133537058306765488 0
 90C:\Projects\DEV\www\util\news_homepage_main\node_modules\entities\lib\encode-trie.d.ts.map133537058309005052 0
 67C:\Projects\DEV\www\util\news_homepage_main\node_modules\.bin\json5133537058379076438 0
-48C:\Projects\DEV\www\util\news_homepage_main\dist133537140118213038 1
+48C:\Projects\DEV\www\util\news_homepage_main\dist133537194533695342 1
 83C:\Projects\DEV\www\util\news_homepage_main\node_modules\mdn-data\css\syntaxes.json133537058310921428 0
 56C:\Projects\DEV\www\util\news_homepage_main\node_modules133537058507039687 1
 109C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\node_modules\mdn-data\css\selectors.schema.json133537058312080731 0
@@ -163,7 +156,7 @@
 81C:\Projects\DEV\www\util\news_homepage_main\node_modules\semver\functions\sort.js133537058314343487 0
 101C:\Projects\DEV\www\util\news_homepage_main\node_modules\caniuse-lite\data\features\variable-fonts.js133537058330567906 0
 102C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\node_modules\css-tree\lib\utils\clone.js133537058321391613 0
-63C:\Projects\DEV\www\util\news_homepage_main\src\scss\components133537122562339818 1
+63C:\Projects\DEV\www\util\news_homepage_main\src\scss\components133537184744203049 1
 79C:\Projects\DEV\www\util\news_homepage_main\node_modules\callsites\package.json133537058293986601 0
 99C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133537058307842584 0
 47C:\Projects\DEV\www\util\news_homepage_main\src133537060194346325 1
@@ -228,7 +221,7 @@
 100C:\Projects\DEV\www\util\news_homepage_main\node_modules\@swc\helpers\_\_inherits_loose\package.json133537058324220741 0
 87C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-what\lib\commonjs\parse.js133537058301074482 0
 102C:\Projects\DEV\www\util\news_homepage_main\node_modules\caniuse-lite\data\features\async-functions.js133537058314014562 0
-62C:\Projects\DEV\www\util\news_homepage_main\src\scss\main.scss133537136625787165 0
+62C:\Projects\DEV\www\util\news_homepage_main\src\scss\main.scss133537195362344570 0
 110C:\Projects\DEV\www\util\news_homepage_main\node_modules\css-select\node_modules\domutils\lib\esm\stringify.js133537058308860836 0
 71C:\Projects\DEV\www\util\news_homepage_main\node_modules\type-fest\ts41133537058312998307 1
 82C:\Projects\DEV\www\util\news_homepage_main\node_modules\sass\types\exception.d.ts133537058500962992 0
@@ -258,7 +251,7 @@
 75C:\Projects\DEV\www\util\news_homepage_main\src\scss\components\_aside.scss133537153900323590 0
 84C:\Projects\DEV\www\util\news_homepage_main\node_modules\@parcel\runtime-browser-hmr133537058306362797 1
 65C:\Projects\DEV\www\util\news_homepage_main\node_modules\csso\cjs133537058314085788 1
-76C:\Projects\DEV\www\util\news_homepage_main\src\scss\components\_header.scss133537130578755977 0
+76C:\Projects\DEV\www\util\news_homepage_main\src\scss\components\_header.scss133537185215461730 0
 83C:\Projects\DEV\www\util\news_homepage_main\node_modules\@parcel\markdown-ansi\test133537058303541140 1
 79C:\Projects\DEV\www\util\news_homepage_main\node_modules\json5\lib\unicode.d.ts133537058311408522 0
 83C:\Projects\DEV\www\util\news_homepage_main\node_modules\picomatch\lib\picomatch.js133537058303637108 0
@@ -6026,4 +6019,12 @@
 70C:\Projects\DEV\www\util\news_homepage_main\node_modules\.bin\svgo.ps1133537058379076438 0
 84C:\Projects\DEV\www\util\news_homepage_main\node_modules\.bin\update-browserslist-db133537058379090220 0
 88C:\Projects\DEV\www\util\news_homepage_main\node_modules\.bin\update-browserslist-db.cmd133537058379090220 0
-53C:\Projects\DEV\www\util\news_homepage_main\dist\scss133537153900838624 1
+53C:\Projects\DEV\www\util\news_homepage_main\dist\scss133537195362780324 1
+74C:\Projects\DEV\www\util\news_homepage_main\src\scss\components\_hero.scss133537192697629629 0
+77C:\Projects\DEV\www\util\news_homepage_main\dist\icon-menu-close.d632f3ad.svg133537192682164639 0
+66C:\Projects\DEV\www\util\news_homepage_main\dist\logo.5b34b4d1.svg133537192682164639 0
+71C:\Projects\DEV\www\util\news_homepage_main\dist\icon-menu.1cb7b930.svg133537192682216479 0
+79C:\Projects\DEV\www\util\news_homepage_main\dist\news_homepage_main.59712999.js133537192682273006 0
+75C:\Projects\DEV\www\util\news_homepage_main\dist\favicon-32x32.6aac2c21.png133537192682273006 0
+83C:\Projects\DEV\www\util\news_homepage_main\dist\news_homepage_main.59712999.js.map133537192682299341 0
+59C:\Projects\DEV\www\util\news_homepage_main\dist\index.html133537194533695342 0
