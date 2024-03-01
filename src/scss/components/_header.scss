@@ -5,32 +5,55 @@
   height: 5rem;
   padding: 1rem;
 
+  
+  @media (min-width: vars.$laptop) {
+    margin-top: 5rem;
+  }
+  
   &__container {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
+    @media (min-width: vars.$laptop) {
+      width: 90%;
+      margin: 0 auto;
+    }
+    
+    @media (min-width: vars.$desktop) {
+      width: 80%;
+    }
 
-      &__nav-desktop {
-        display: none;
-
-        @media (min-width: vars.$desktop) {
-          display: block;
-        }
-  
-        &__list {
-          display: flex;
-          align-items: center;
-          gap: 2rem;
-          
-        }
-      }
+    &__logo {
+      height: 10%;
       
-      .btn {
-        display: block;
-
-        @media (min-width: vars.$desktop) {
-          display: none;
-        }
+      &__image {
+        width: 100%;
+        object-fit: cover;
       }
+    }
+
+    &__nav-desktop {
+      display: none;
+
+      @media (min-width: vars.$tablet) {
+        display: block;
+      }
+
+      &__list {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        
+      }
+    }
+    
+    .btn {
+      display: block;
+
+      @media (min-width: vars.$tablet) {
+        display: none;
+      }
+    }
   }
 }
