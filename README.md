@@ -44,7 +44,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ### Links
 
 - Solution URL: [Github](https://github.com/Arthur-Ferreira/NewsHomepage_Challenge)
-- Live Site URL: [Live Site](https://arthur-ferreira.github.io/QRCode_Challenge/)
+- Live Site URL: [Live Site](https://main--newshomepagebyarthurf.netlify.app/)
 
 ## My process
 
@@ -68,11 +68,11 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Learned
 
-This project served as a platform for honing my skills in time estimation and project delivery. As a beginner's endeavor, I focused solely on utilizing essential tools such as HTML5 and Scss.
+This project served as a platform for honing my skills in time estimation and project delivery. As a beginner's endeavor, I focused solely on utilizing essential tools such as HTML5, Scss and JS.
 
 ### Continued development
 
-As part of ongoing development, I plan to enhance this basic HTML and Scss project by transitioning it into a React project. Additionally, I intend to leverage styling libraries like Styled Components to elevate it into a more sophisticated and feature-rich project.
+As part of ongoing development, I plan to enhance this basic HTML, Scss and JS project by transitioning it into a React project. Additionally, I intend to leverage styling libraries like Styled Components and Design principal like Atomic Design to elevate it into a more sophisticated and feature-rich project.
 
 
 ## Author
