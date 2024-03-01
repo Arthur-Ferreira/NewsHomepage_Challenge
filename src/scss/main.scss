@@ -3,6 +3,7 @@
 @use 'components/aside';
 @use 'components/hero';
 @use 'components/new-aside';
+@use 'components/highlights';
 
 
 * {
@@ -22,11 +23,48 @@ body {
   background-color: vars.$off-white;
 }
 
-main {
+.main {
   padding: 0 1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 3rem;
+
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    width: 100%;
+    
+    @media (min-width: vars.$laptop) {
+      width: 90%;
+      column-gap: 2rem;
+      row-gap: 4rem;
+      grid-template-areas: 
+      "a a b"
+      "a a b"
+      "c c c"
+      ;
+
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+
+
+      .hero {
+        grid-area: a;
+      }
+
+      .new-aside {
+        grid-area: b;
+      }
+      
+      .highlights {
+        grid-area: c;
+      }
+
+      margin: 0 auto;
+    }
+
+    @media (min-width: vars.$desktop) {
+      width: 80%;
+    }
+  }
 }
 
 .btn {
@@ -48,4 +86,8 @@ main {
 .paragraph {
   font-size: 0.938rem;
   line-height: 1.5rem;
+}
+
+.footer {
+  text-align: center;
 }
