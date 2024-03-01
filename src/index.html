@@ -2,8 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- displays site properly based on user's device -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="author" content="Arthur Ferreira">
+
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -23,10 +26,15 @@
     <title>Frontend Mentor | News homepage</title>
   </head>
   <body>
+    <!-- Header content -->
     <header class="header">
       <div class="header__container">
         <div class="header__container__logo">
-          <img src="./assets/images/logo.svg" alt="W." />
+          <img
+            class="header__container__logo__image"
+            src="./assets/images/logo.svg"
+            alt="W."
+          />
         </div>
         <nav class="header__container__nav-desktop">
           <ul class="header__container__nav-desktop__list">
@@ -44,6 +52,8 @@
         </button>
       </div>
     </header>
+
+    <!-- Aside content -->
     <aside class="aside">
       <div class="aside__container">
         <button class="btn">
@@ -60,93 +70,146 @@
         </nav>
       </div>
     </aside>
+    
+    <!-- Main content -->
     <main class="main">
-      <section class="hero">
-        <div class="hero__image">
-          <picture>
-            <source
-              srcset="./assets/images/image-web-3-desktop.jpg"
-              media="(min-width:710px)"
-            />
-            <img
-              src="./assets/images/image-web-3-mobile.jpg"
-              alt="Background"
-              class="hero__image__content"
-            />
-          </picture>
-        </div>
-        <h1 class="hero__title">The Bright Future of Web 3.0?</h1>
-        <p class="paragraph">
-          We dive into the next evolution of the web that claims to put the
-          power of the platforms back into the hands of the people. But is it
-          really fulfilling its promise?
-        </p>
+      <div class="main__container">
+        <section class="hero">
+          <div class="hero__image">
+            <picture>
+              <source
+                srcset="./assets/images/image-web-3-desktop.jpg"
+                media="(min-width:710px)"
+              />
+              <img
+                src="./assets/images/image-web-3-mobile.jpg"
+                alt="Background"
+                class="hero__image__content"
+              />
+            </picture>
+          </div>
+          <div class="hero__info">
+            <h1 class="hero__info__title">The Bright Future of Web 3.0?</h1>
 
-        <button class="btn btn--alt">Read more</button>
-      </section>
+            <div class="hero__info__actions">
+              <p class="paragraph">
+                We dive into the next evolution of the web that claims to put
+                the power of the platforms back into the hands of the people.
+                But is it really fulfilling its promise?
+              </p>
 
-      <aside class="new-aside">
-        <h2 class="new-aside__title">New</h2>
+              <button class="btn btn--alt">Read more</button>
+            </div>
+          </div>
+        </section>
 
-        <ul class="new-aside__list">
-          <li class="new-aside__list__item">
-            <h3 class="new-aside__list__item__title">Hydrogen VS Electric Cars</h3>
-            <p class="paragraph">
-              Will hydrogen-fueled cars ever catch up to EVs?
-            </p>
-          </li>
-          <li class="new-aside__list__item">
-            <h3 class="new-aside__list__item__title">The Downsides of AI Artistry</h3>
-            <p class="paragraph">
-              What are the possible adverse effects of on-demand AI image
-              generation?
-            </p>
-          </li>
+        <aside class="new-aside">
+          <h2 class="new-aside__title">New</h2>
 
-          <li class="new-aside__list__item">
-            <h3 class="new-aside__list__item__title">Is VC Funding Drying Up?</h3>
-            <p class="paragraph">
-              Private funding by VC firms is down 50% YOY. We take a look at
-              what that means.
-            </p>
-          </li>
-        </ul>
-      </aside>
+          <ul class="new-aside__list">
+            <li class="new-aside__list__item">
+              <h3 class="new-aside__list__item__title">
+                Hydrogen VS Electric Cars
+              </h3>
+              <p class="paragraph">
+                Will hydrogen-fueled cars ever catch up to EVs?
+              </p>
+            </li>
+            <li class="new-aside__list__item">
+              <h3 class="new-aside__list__item__title">
+                The Downsides of AI Artistry
+              </h3>
+              <p class="paragraph">
+                What are the possible adverse effects of on-demand AI image
+                generation?
+              </p>
+            </li>
 
-      <section>
-        <ol>
-          <li>
-            <span>01</span>
-            <h4>Reviving Retro PCs</h4>
-            <p class="paragraph">
-              What happens when old PCs are given modern upgrades?
-            </p>
-          </li>
+            <li class="new-aside__list__item">
+              <h3 class="new-aside__list__item__title">
+                Is VC Funding Drying Up?
+              </h3>
+              <p class="paragraph">
+                Private funding by VC firms is down 50% YOY. We take a look at
+                what that means.
+              </p>
+            </li>
+          </ul>
+        </aside>
 
-          <li>
-            <span>02</span>
-            <h4>Top 10 Laptops of 2022</h4>
-            <p class="paragraph">
-              Our best picks for various needs and budgets.
-            </p>
-          </li>
+        <section class="highlights">
+          <ol class="highlights__list">
+            <li class="highlights__list__item">
+              <div class="highlights__list__item__image">
+                <img
+                  class="highlights__list__item__image__content"
+                  src="./assets/images/image-retro-pcs.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="highlights__list__item__info">
+                <span class="highlights__list__item__info__number">01</span>
+                <h3 class="highlights__list__item__info__title">
+                  Reviving Retro PCs
+                </h3>
+                <p class="paragraph">
+                  What happens when old PCs are given modern upgrades?
+                </p>
+              </div>
+            </li>
 
-          <li>
-            <span>03</span>
-            <h4>The Growth of Gaming</h4>
-            <p class="paragraph">
-              How the pandemic has sparked fresh opportunities.
-            </p>
-          </li>
-        </ol>
-      </section>
+            <li class="highlights__list__item">
+              <div class="highlights__list__item__image">
+                <img
+                  class="highlights__list__item__image__content"
+                  src="./assets/images/image-top-laptops.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="highlights__list__item__info">
+                <span class="highlights__list__item__info__number">02</span>
+                <h3 class="highlights__list__item__info__title">
+                  Top 10 Laptops of 2022
+                </h3>
+                <p class="paragraph">
+                  Our best picks for various needs and budgets.
+                </p>
+              </div>
+            </li>
+
+            <li class="highlights__list__item">
+              <div class="highlights__list__item__image">
+                <img
+                  class="highlights__list__item__image__content"
+                  src="./assets/images/image-gaming-growth.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="highlights__list__item__info">
+                <span class="highlights__list__item__info__number">03</span>
+                <h3 class="highlights__list__item__info__title">
+                  The Growth of Gaming
+                </h3>
+                <p class="paragraph">
+                  How the pandemic has sparked fresh opportunities.
+                </p>
+              </div>
+            </li>
+          </ol>
+        </section>
+      </div>
     </main>
-    <footer class="attribution">
+
+    <!-- Footer content -->
+    <footer class="footer">
       <p>
         Challenge by
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
           >Frontend Mentor</a
-        >. Coded by <a href="#">Your Name Here</a>.
+        >. Coded by
+        <a href="https://github.com/Arthur-Ferreira" target="_blank"
+          >Arthur Ferreira</a
+        >.
       </p>
     </footer>
   </body>
