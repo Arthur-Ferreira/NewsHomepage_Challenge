@@ -3,31 +3,48 @@
 .new-aside {
   background-color: vars.$very-dark-blue;
   padding: 1rem;
-
+  
+  @media (min-width: vars.$desktop) {
+    padding: 1.4rem;
+  }
 
   &__title {
     color: vars.$soft-orange;
+    font-size: 1.8rem;
+
+    @media (min-width: vars.$desktop) {
+      font-size: 2.6rem;
+    }
   }
 
   &__list {
     padding: 0.5rem 0;
-    
+
     &__item:not(:last-child) {
-      border-bottom: 1px solid vars.$dark-grayish-blue;
+      border-bottom: 1px solid vars.$grayish-blue;
     }
-  
+    
     &__item:last-child {
       padding-bottom: 0;
     }
-  
+    
     &__item {
       padding: 1rem 0;
+
+      @media (min-width: vars.$desktop) {
+        padding: 1.4rem 0;
+      }
     
       &__title {
         color: vars.$off-white;
+
+        @media (min-width: vars.$desktop) {
+          font-size: 1.2rem;
+        }
       }
     
       .paragraph {
+        padding-top: 0.5rem;
         color: vars.$grayish-blue;
       }
     }
