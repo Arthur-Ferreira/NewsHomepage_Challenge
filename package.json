@@ -2,7 +2,6 @@
   "name": "news_homepage_main",
   "version": "1.0.0",
   "description": "![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html src/scss/main.scss",
     "build": "parcel build src/index.html",
